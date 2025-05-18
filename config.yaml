@@ -1,0 +1,12 @@
+
+seed_usernames:
+  - gsm.latam
+  - iphone.miami
+  - celulares.arg
+  - repuestos.movil
+
+scrape_limit: 500
+
+delay_seconds: 2
+
+enable_recursion: true
